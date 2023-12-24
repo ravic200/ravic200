@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ravic200
+- 👋 Hi, I’m @ravi
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...html,css,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
